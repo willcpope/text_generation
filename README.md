@@ -14,12 +14,12 @@ This model was trained using flavor text (44,491 words) from items in the video 
 
 This project uses the Python package [aitextgen](https://docs.aitextgen.io) using OpenAI's GPT-2 architecture.
 
-> aitextgen is a Python package that leverages PyTorch, Hugging Face Transformers and pytorch-lightning with specific optimizations for text generation using GPT-2, > plus many added features.
+> aitextgen is a Python package that leverages PyTorch, Hugging Face Transformers and pytorch-lightning with specific optimizations for text generation using GPT-2, plus many added features.
 
 ## Results
-It's important to note that
+While both models produced some interesting results, it requires a great deal of curation. Per the aitextgen website -
 
-Not all AI generated text will be good, hence why human curation is currently a necessary strategy for many finetuned models. In testing, only 5% — 10% of generated text is viable. One of the design goals of aitextgen is to help provide tools to improve that signal-to-noise ratio.
+> Not all AI generated text will be good, hence why human curation is currently a necessary strategy for many finetuned models. In testing, only 5% — 10% of generated text is viable. One of the design goals of aitextgen is to help provide tools to improve that signal-to-noise ratio.
 
 ### H.P. Lovecraft Model
 
