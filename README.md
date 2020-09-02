@@ -17,3 +17,7 @@ This project uses the Python package [aitextgen](https://docs.aitextgen.io) usin
 While both models produced some interesting content, it required curation to find usable results. Per the aitextgen documentation -
 
 > Not all AI generated text will be good, hence why human curation is currently a necessary strategy for many finetuned models. In testing, only 5% — 10% of generated text is viable. One of the design goals of aitextgen is to help provide tools to improve that signal-to-noise ratio.
+
+Of 100 generated text this in my opinion had the most potential relative to coherant plot points:
+
+> Ancient ruin in Alabama swamp - voodoo. The black trees of the old man seemed to tell them, but he would do not speak a thing it, but one would help no doubt a single thing could be, nor would find their father that might have left and other things.
