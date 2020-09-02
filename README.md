@@ -16,10 +16,10 @@ This project uses the Python package [aitextgen](https://docs.aitextgen.io) usin
 > aitextgen is a Python package that leverages PyTorch, Hugging Face Transformers and pytorch-lightning with specific optimizations for text generation using GPT-2, plus many added features.
 
 ## Results
-While both models produced some interesting content, it required curation to find usable results. Per the aitextgen documentation -
+The model produced some interested text samples but it required curation to find usable results. Per the aitextgen documentation -
 
 > Not all AI generated text will be good, hence why human curation is currently a necessary strategy for many finetuned models. In testing, only 5% — 10% of generated text is viable. One of the design goals of aitextgen is to help provide tools to improve that signal-to-noise ratio.
 
 I generated 100 text samples using the Lovecraftian model. While none of the samples were 100% coherent or grammatically correct, some did include interest plot points. The most interesting text to me was the following sample.
 
-> Ancient ruin in Alabama swamp - voodoo. The black trees of the old man seemed to tell them, but he would do not speak a thing it, but one would help no doubt a single thing could be, nor would find their father that might have left and other things.
+> *Ancient ruin in Alabama swamp - voodoo. The black trees of the old man seemed to tell them, but he would do not speak a thing it, but one would help no doubt a single thing could be, nor would find their father that might have left and other things.*
