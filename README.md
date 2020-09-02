@@ -4,7 +4,7 @@ The goal of this project was to train an artificial intelligence model to genera
 ## AI Model: Lovecraftian Text Generation
 This model was trained using the works of the American writer of weird fiction and horror fiction, H.P. Lovecraft. The training corpus consisted of **502,786 words**. 
 
-The prompt used to generate new text is from his "Commonplace Book" - a listing of story ideas, concepts, and other elements which he might at some point include in his stories. The goal was to generate text that builds on entry 111 from 1923 -
+The prompt used to generate new text is from his "Commonplace Book" - a listing of story ideas, concepts, and other elements which he might at some point include in his stories. The goal of this model was to generate text that builds on entry 111 from 1923 -
 
 > *"Ancient ruin in Alabama swamp—voodoo."*
 
